@@ -78,26 +78,4 @@ npm run start
 
 
 ```
-## Key Components
-
-- **HomePage** - Business browsing with filters
-- **ReviewFormSection** - Review submission form
-- **AdminReviewRow** - Review card for admin approval
-- **BusinessDetailsHeader** - Business info display
-- **RatingStars** - Star rating display
-
-## Admin Access
-
-To make a user an admin:
-1. Create a user account
-2. Update the `profiles` table in Supabase
-3. Set `role = 'admin'` for that user's profile
-
-## Database Schema
-
-- `profiles` - User profiles and roles
-- `businesses` - Local business listings
-- `reviews` - User reviews (pending/approved/rejected)
-- `business_ratings` - Aggregate ratings view
-
-See `supabase/schema.sql` for complete schema with RLS policies.
+h RLS policies.

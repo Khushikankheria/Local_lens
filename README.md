@@ -22,7 +22,7 @@ It includes:
 ![image alt](https://github.com/Khushikankheria/Local_lens/blob/main/WhatsApp%20Image%202026-03-19%20at%206.05.46%20PM.jpeg?raw=true)
 
 ## Admin Dashboard
-![image alt]https://github.com/Khushikankheria/Local_lens/blob/main/WhatsApp%20Image%202026-03-19%20at%206.06.07%20PM.jpeg?raw=true)
+![image alt](https://github.com/Khushikankheria/Local_lens/blob/main/WhatsApp%20Image%202026-03-19%20at%206.06.07%20PM.jpeg?raw=true)
 
 
 ## Features

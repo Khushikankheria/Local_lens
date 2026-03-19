@@ -13,9 +13,9 @@ It includes:
 
 **Ayushi Gupta** - Backend & Database<br>
 **Lakshika** - Backend <br>
-**Khushi Kankheria** - Frontend ( User Dashboard & Admin Dashboard) <br>
-**Hemlata** - User Dashboard - Features add <br>
-**Divya Verma**- User Dashboard - Features add<br>
+**Khushi Kankheria** - Frontend (User Dashboard & Admin Dashboard) <br>
+**Hemlata** - Added Image Feature   <br>
+**Divya Verma**- Implemented Animation<br>
 
 ## User Dashboard 
 ![image alt](https://github.com/Khushikankheria/Local_lens/blob/main/WhatsApp%20Image%202026-03-19%20at%206.05.23%20PM.jpeg?raw=true)

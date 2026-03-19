@@ -1,14 +1,30 @@
 # LocalLens
 
 **LocalLens** is a crowdsourced review platform for local businesses. Users can browse businesses by category and location, submit reviews with quality/service/value ratings and optional photos, while admins approve reviews before they're published.
+It includes:
+- Business discovery with search and multi-filter support
+- Category and location based browsing
+- Business detail pages with reviews and ratings
+- Favorites and profile pages persisted in local storage
+- Mock auth flow with role-based admin access
+- Admin dashboard for review moderation and content management
+
+# Contributors 
+
+**Ayushi Gupta** - Backend & Database<br>
+**Lakshika** - Backend <br>
+**Khushi Kankheria** - Frontend ( User Dashboard & Admin Dashboard) <br>
+**Hemlata** - Frontend ( User Dashboard - Features add)<br>
+**Divya Verma**- Frontend ( User Dashboard - Features add)<br>
+
 
 ## Features
 
-✅ **Browse Local Businesses** - Search, filter by category and location
-✅ **Crowdsourced Reviews** - Users submit reviews with ratings for quality, service, and value
-✅ **Photo Uploads** - Optional photo upload with reviews
-✅ **Admin Dashboard** - Review moderation before publishing
-✅ **Rating Breakdowns** - Overall and category-specific ratings
+**Browse Local Businesses** - Search, filter by category and location <br>
+**Crowdsourced Reviews** - Users submit reviews with ratings for quality, service, and value <br>
+**Photo Uploads** - Optional photo upload with reviews <br>
+**Admin Dashboard** - Review moderation before publishing <br>
+**Rating Breakdowns** - Overall and category-specific ratings <br>
 
 ## Getting Started
 
@@ -60,26 +76,8 @@ npm run start
 - **Authentication**: Supabase Auth
 - **File Storage**: Supabase Storage
 
-## Project Structure
 
 ```
-app/                    # App Router pages
-components/             # React components
-lib/                    # Utilities and types
-  ├── supabase/        # Supabase clients
-  ├── types.ts         # TypeScript types
-  └── env.ts           # Environment setup
-supabase/               # Database schema and seed data
-```
-
-## Routes
-
-- `/` - Browse businesses (homepage)
-- `/login` - User login
-- `/signup` - User registration
-- `/business/[id]` - Business details and reviews
-- `/admin` - Admin dashboard (admin only)
-
 ## Key Components
 
 - **HomePage** - Business browsing with filters

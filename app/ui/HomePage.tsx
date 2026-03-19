@@ -9,7 +9,6 @@ function uniqSorted<T extends string>(items: T[]): T[] {
   return Array.from(new Set(items)).sort((a, b) => a.localeCompare(b));
 }
 
-// Default categories and locations for filter dropdowns
 const DEFAULT_CATEGORIES: BusinessCategory[] = [
   "Restaurants",
   "Cafes",
